@@ -1,8 +1,9 @@
 # FILE NAME - grade_converter.py
 
-# NAME: 
-# DATE: 
-# BRIEF DESCRIPTION:  
+# NAME: Kevin Hormaza
+# DATE: October 6, 2025
+# BRIEF DESCRIPTION: This program converts a numerical grade into a letter grade.
+# it checks the number against specific ranges and prints the matching letter. 
 
 
 
@@ -84,7 +85,9 @@ D
 
 1. What is something you would tell a future student to be careful about when
    doing this lab?
-
+I'd tell them to watch the order of their if and elif statements. 
+If the highest grades aren’t checked first, the program can assign the wrong letter.
+Starting from A+ and working downward makes the logic much clearer.
 
 
 
